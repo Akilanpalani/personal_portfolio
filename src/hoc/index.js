@@ -1,3 +1,3 @@
-import SectionWarpper from "./sectionWarpper";
+import SectionWarpper from "./SectionWarpper";
 
 export default SectionWarpper;
